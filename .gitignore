@@ -1,0 +1,10 @@
+# Ignore .idea folder
+**/.idea/*
+
+# Ignore .vscode folder
+.vscode/*
+
+# Ignore macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
